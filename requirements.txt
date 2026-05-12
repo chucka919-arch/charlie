@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+requests
+python-dotenv
+# For better offline STT: pip install openai-whisper
+# For advanced: numpy pyaudio
